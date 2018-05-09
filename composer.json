@@ -1,10 +1,5 @@
 {
   "require": {
-    "noahbuscher/macaw": "dev-master"
-  },
-  "autoload": {
-    "psr-4": {
-      "" : ""
-    }
+    "codingbean/macaw": "dev-master"
   }
 }
