@@ -14,3 +14,5 @@ cd public
 打开浏览器，输入 localhost:3000/home 
 即可看到`app\controllers\HomeControllers::home`方法的调用
 ```
+
+`mamaw`好像不能实现它所述的获取其他文件下的方法的调用，后续看看其他路由的实现
